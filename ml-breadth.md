@@ -25,9 +25,9 @@ Below are the most important topics to cover:
   - Linear vs Nonlinear algorithms
 ### Supervised learning
   - Linear Algorithms
-    - Linear regression
+    - Linear regression (DONE)
       - least squares, residuals,  linear vs multivariate regression
-    - Logistic regression
+    - Logistic regression (EQUATION REM REST DONE)
       - cost function (equation, code),  sigmoid function, cross entropy
     - Support Vector Machines
     - Linear discriminant analysis
