@@ -34,11 +34,11 @@ Below are the most important topics to cover:
 
   - Decision Trees
     - Logits
-    - Leaves
-    - Training algorithm
+    - Leaves (DONE)
+    - Training algorithm (DONE)
       - stop criteria
     - Inference
-    - Pruning
+    - Pruning (DONE)
 
   - Ensemble methods
     - Bagging and boosting methods (with examples)
