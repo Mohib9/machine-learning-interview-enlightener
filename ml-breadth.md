@@ -29,8 +29,8 @@ Below are the most important topics to cover:
       - least squares, residuals,  linear vs multivariate regression
     - Logistic regression (EQUATION REM REST DONE)
       - cost function (equation, code),  sigmoid function, cross entropy
-    - Support Vector Machines
-    - Linear discriminant analysis
+    - Support Vector Machines(DONE)
+    - Linear discriminant analysis (DONE)
 
   - Decision Trees
     - Logits
