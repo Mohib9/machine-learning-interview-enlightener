@@ -84,9 +84,9 @@ Below are the most important topics to cover:
     - Centroid models: k-means clustering
     - Connectivity models: Hierarchical clustering
     - Density models: DBSCAN
-  - Gaussian Mixture Models
-  - Latent semantic analysis
-  - Hidden Markov Models (HMMs)
+  - Gaussian Mixture Models (CHECK LATER)
+  - Latent semantic analysis (CHECK LATER)
+  - Hidden Markov Models (HMMs) (CHECK LATER)
     - Markov processes
     - Transition probability and emission probability
     - Viterbi algorithm [Advanced]
