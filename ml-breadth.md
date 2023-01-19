@@ -93,7 +93,7 @@ Below are the most important topics to cover:
   - Dimension reduction techniques
     - Principal Component Analysis (PCA)
     - Independent Component Analysis (ICA)
-    - T-sne
+    - T-sne (CHECK LATER)
 
 
 ### Bias / Variance (Underfitting/Overfitting)
