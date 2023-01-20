@@ -100,7 +100,7 @@ Below are the most important topics to cover:
 - Regularization techniques
   - L1/L2 (Lasso/Ridge)
 ### Sampling
-- sampling techniques
+- sampling techniques (CHECK LATER)
   - Uniform sampling
   - Reservoir sampling
   - Stratified sampling
